@@ -4,7 +4,6 @@
   "description": "My stylelintrc config. I use it for most of my projects.",
   "main": ".stylelintrc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
