@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-jonathantreffler",
+  "version": "1.0.0",
+  "description": "My stylelintrc config. I use it for most of my projects.",
+  "main": ".stylelintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanTreffler/my-vue-stylelintrc.git"
+  },
+  "keywords": [
+    "stylelint",
+    "lint",
+    "custom-stylelint"
+  ],
+  "author": "Jonathan Treffler",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JonathanTreffler/my-vue-stylelintrc/issues"
+  },
+  "homepage": "https://github.com/JonathanTreffler/my-vue-stylelintrc#readme"
+}
