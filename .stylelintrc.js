@@ -20,7 +20,7 @@ module.exports = {
 		'selector-type-case': null,
 		'selector-list-comma-newline-after': null,
 		'no-descending-specificity': null,
-		'string-quotes': 'single',
+		'string-quotes': 'double',
 		"color-hex-case": "upper",
 	}
 }
