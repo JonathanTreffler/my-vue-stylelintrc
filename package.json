@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-jonathantreffler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My stylelintrc config. I use it for most of my projects.",
   "main": ".stylelintrc.js",
   "scripts": {},
